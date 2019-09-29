@@ -1,0 +1,26 @@
+h1{
+    font-weight: bold;
+   
+}
+img{
+    width: 204px;
+    height: 308px;
+}
+h1{
+    border-bottom: 3px rgb(252, 110, 110) solid;
+    text-shadow: rgb(248, 163, 163) 4px 2px 2px;
+
+}
+body{
+    max-width: 1024px;
+    margin: auto;
+}
+img{
+    float: right;
+}
+h4{
+    text-decoration: rgb(252, 110, 110) underline;
+}
+strong{
+    text-decoration: underline rgb(252, 110, 110);
+}

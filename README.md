@@ -1,1 +1,1 @@
-# rsschool-cv2
+# https://olgaagi.github.io/rsschool-cv/
